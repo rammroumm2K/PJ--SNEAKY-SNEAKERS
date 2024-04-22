@@ -1,0 +1,15 @@
+1-- foto aggiungeere testo con canva (testo di presentazione poi sotto click testo per dirigire il contenuto )
+
+2-- aggiungere un piccolo template per donazioni con paypal 
+
+3-- aggiungere da qualche parte della pubblicita #(non obbligatorio per il momento {da vedere quando, magari dopo qualche mese per aggrandire prima il pubblico })
+
+4-- lista gruppo di scarpe in uscita e quando con dettagli dell'uscita e dove comprarli e ottenerli
+
+5-- aggiungere un piccolo BANNER in qui si notifica che attualmente il sito é ancora in fase beta e in continuo sviluppo(notifica anche in cui che saranno implementate  grandi novità in arrivo e diverse categorie)  (piccolo link per un altra donazione)
+
+6-- il sito sarà totalmente gratuito fino alla fine (  )
+
+7-- footer completamente da rifare
+
+8-- immagini da rifare
